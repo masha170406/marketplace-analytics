@@ -24,6 +24,12 @@ The dashboard is divided into six sections:
 5. Listing Analytics
 6. Payment and Reviews
 
+## Dashboard Preview
+
+<img width="2523" height="1327" alt="Screenshot From 2026-11-19 17-31-41" src="https://github.com/user-attachments/assets/03c4b19c-2c2a-49ad-88d3-0bf71f1ed416" />
+<img width="2523" height="1327" alt="Screenshot From 2026-11-19 17-31-58" src="https://github.com/user-attachments/assets/4551806a-f916-4c71-9ee0-4d1b9ecef34e" />
+<img width="2523" height="1327" alt="Screenshot From 2026-11-19 17-32-07" src="https://github.com/user-attachments/assets/c2f15ca1-1bdd-47bd-8da0-21482b4910b4" />
+
 ## Technologies
 
 - PostgreSQL and SQL
