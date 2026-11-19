@@ -87,8 +87,7 @@ streamlit run dashboard/app.py
 
 ## Database Design
 
-The database structure and table relationships are shown in the [ER diagram](docs/er_diagram.png).
+The database structure and table relationships are shown in the ER diagram.
 
-## Notes
+<img width="1564" height="1488" alt="image" src="https://github.com/user-attachments/assets/57c0e6b9-113e-47e8-920b-b911fc040c89" />
 
-This project was created for learning and portfolio purposes. The dataset is synthetic and does not contain real Vinted data.
