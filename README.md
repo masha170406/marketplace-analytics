@@ -1,7 +1,7 @@
 
-# ReWear – Marketplace Analytics
+# Marketplace Analytics
 
-ReWear is a data analytics project based on a fictional second-hand marketplace inspired by platforms like Vinted.
+Data analytics project based on a fictional second-hand marketplace inspired by platforms like Vinted.
 
 A PostgreSQL database was created and populated with synthetic data.
 
